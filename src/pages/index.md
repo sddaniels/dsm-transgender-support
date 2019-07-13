@@ -23,13 +23,13 @@ sections:
     background_style: style1
     component: Intro
     section_id: intro
-    subtitle: |-
-      18+ Transgender, Non-Binary & Allies Are Welcome!
+    subtitle: >-
+      Open to all transgender, queer, non-binary, gender non-conforming
+      individuals 18+. Allies in direct support of transgender members are
+      welcome.
 
-      Held every Thursday 6:30 - 8:00pm at UCS Healthcare
 
-      4908 Franklin Avenue\
-      Des Moines, IA. 50310
+      Whether you're just beginning your journey or somewhere beyond, join us!
     title: Des Moines Transgender Support Group
     type: intro
   - background_style: style2
