@@ -27,7 +27,7 @@ module.exports = {
         {
             resolve: `gatsby-remark-page-creator`,
             options: {
-                
+
             }
         },
         {
@@ -36,6 +36,14 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
                 menus: require('./src/data/menus.json'),
+            }
+        },
+        {
+            resolve: 'gatsby-plugin-web-font-loader',
+            options: {
+                google: {
+                    families: ['Six Caps']
+                }
             }
         }
     ]
