@@ -45,42 +45,23 @@ sections:
     background_style: style3
     component: Features
     features_list:
-      - icon: fa-code
+      - icon: fa-calendar
+        text: |-
+          Held every Thursday from 6:30 - 8:00 P.M.
+
+          UCS Healthcare\
+          4908 Franklin Ave\
+          Des Moines, IA  50310
+        title: Weekly Meetings
+      - icon: fa-microphone
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Lorem ipsum amet
-      - icon: fa-lock
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Aliquam sed nullam
-      - icon: fa-cog
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Sed erat ullam corper
-      - icon: fa-desktop
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Veroeros quis lorem
-      - icon: fa-chain
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Urna quis bibendum
-      - icon: fa-diamond
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Aliquam urna dapibus
+          Occasionally we host guest speakers on topics of interest, most
+          recently a discussion of transgender rights from the ACLU. We may also
+          dedicate certain meetings to special topics instead of our typical
+          meeting agenda.
+        title: Speakers & Special Topics
     section_id: two
-    subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+    subtitle: ''
     title: What we do
     type: features
   - background_style: style1
