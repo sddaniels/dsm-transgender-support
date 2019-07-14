@@ -3,8 +3,8 @@ title: A Generic Page
 content_img_path: images/pic04.jpg
 menus:
   main:
-    title: Generic
-    weight: 2
+    title: ''
+    weight: ''
 template: page
 ---
 
