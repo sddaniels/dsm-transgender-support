@@ -12,7 +12,7 @@ sidebar:
       title: What we do
       url: '#two'
     - is_primary: false
-      title: Questions & Accommodations
+      title: Stay in Touch
       url: '#three'
 sections:
   - actions:
@@ -32,7 +32,7 @@ sections:
       Whether you're just beginning your journey or somewhere beyond, join us!
     title: Des Moines Transgender Support Group
     type: intro
-  - background_style: style4
+  - background_style: style3
     component: Spotlights
     section_id: one
     title: Spotlights Section
