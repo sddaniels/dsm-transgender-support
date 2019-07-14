@@ -1,6 +1,6 @@
 ---
 title: Guiding Principles
-content_img_path: images/pic04.jpg
+content_img_path: /images/screen-shot-2019-07-13-at-7.07.04-pm-copy.jpg
 home_spotlights:
   enabled: true
   excerpt: >-
