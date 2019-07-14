@@ -32,7 +32,7 @@ sections:
       Whether you're just beginning your journey or somewhere beyond, join us!
     title: Des Moines Transgender Support Group
     type: intro
-  - background_style: style3
+  - background_style: style1
     component: Spotlights
     section_id: one
     title: Spotlights Section
