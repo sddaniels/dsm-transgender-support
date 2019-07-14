@@ -12,7 +12,7 @@ sidebar:
       title: What we do
       url: '#two'
     - is_primary: false
-      title: Get in touch
+      title: Questions & Accommodations
       url: '#three'
 sections:
   - actions:
