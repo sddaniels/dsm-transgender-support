@@ -32,7 +32,7 @@ sections:
       Whether you're just beginning your journey or somewhere beyond, join us!
     title: Des Moines Transgender Support Group
     type: intro
-  - background_style: style2
+  - background_style: style4
     component: Spotlights
     section_id: one
     title: Spotlights Section
@@ -43,7 +43,7 @@ sections:
     features_list:
       - icon: fa-calendar
         text: |-
-          Held every Thursday from 6:30 - 8:00 P.M.
+          Held every Thursday from 6:30 - 8:00 PM
 
           UCS Healthcare\
           4908 Franklin Ave\
@@ -65,7 +65,7 @@ sections:
     contact_list:
       - text: transgenderdesmoines@gmail.com
         title: Email
-        url: 'email:transgenderdesmoines@gmail.com'
+        url: 'mailto:transgenderdesmoines@gmail.com'
     section_id: three
     social:
       social_icons:
