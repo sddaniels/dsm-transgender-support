@@ -1,6 +1,6 @@
 ---
 title: Guiding Principles
-content_img_path: /images/screen-shot-2019-07-13-at-7.07.04-pm-copy.jpg
+content_img_path: ''
 home_spotlights:
   enabled: true
   excerpt: >-
@@ -8,7 +8,7 @@ home_spotlights:
     guiding principles.
   home_img:
     data_position: top center
-    path: images/pic02.jpg
+    path: /images/screen-shot-2019-07-13-at-7.07.04-pm-copy.jpg
     url: '#'
   weight: 1
 template: page
