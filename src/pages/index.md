@@ -6,7 +6,7 @@ sidebar:
       title: Welcome
       url: '#intro'
     - is_primary: false
-      title: Who we are
+      title: Guiding Principles
       url: '#one'
     - is_primary: false
       title: What we do
