@@ -10,7 +10,7 @@
 		@include vendor('display', 'flex');
 		background-color: _palette(accent1);
 		cursor: default;
-		padding: 1.75em 2em;
+		padding: 1.2em 2em;
 
 		> .title {
 			@include large-heading();
@@ -72,13 +72,14 @@
 			text-align: left;
 
 			.title {
-				font-size: 1.25em;
-				padding: 1em 0;
+				font-size: 2.25em;
+				padding: .5em 0;
+				line-height: 1.2em;
 			}
 
 			> nav {
 				border-top: solid 1px _palette(border);
-				text-align: inherit;
+				justify-content: inherit;
 
 				> ul {
 					> li {

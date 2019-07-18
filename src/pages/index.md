@@ -12,7 +12,7 @@ sidebar:
       title: What we do
       url: '#two'
     - is_primary: false
-      title: Stay in Touch
+      title: Questions?
       url: '#three'
 sections:
   - actions:
@@ -82,4 +82,3 @@ menus:
     weight: 1
 template: home
 ---
-
