@@ -26,13 +26,14 @@ $size: (
 $font: (
     family:				(Arial, Helvetica, sans-serif),
     family-fixed:		('Courier New', monospace),
+    family-heading: ('Six Caps', Arial, Helvetica, sans-serif),
     weight:				normal,
     weight-bold:		bold,
-    kerning-alt:		0.25em
+    kerning-alt:		0.25em,
+    kerning-heading:  0.05em
 );
 
 // Palette.
-
 $palette: (
     bg:					getPaletteKey(bg),
     bg-alt:				darken(getPaletteKey(bg), 5),
@@ -46,7 +47,8 @@ $palette: (
     accent2:			getPaletteKey(accent2),
     accent2-alt:		darken(getPaletteKey(accent2), 10),
     accent3:			getPaletteKey(accent3),
-    accent3-alt:		darken(getPaletteKey(accent3), 10)
+    accent3-alt:		darken(getPaletteKey(accent3), 10),
+    theme:        #5bc8a6
 );
 @import 'libs/functions';
 @import 'libs/mixins';
@@ -98,7 +100,7 @@ $palette: (
 	@import 'components/table';
 	@import 'components/wrapper';
 	@import 'components/banner';
-	
+
 // Layout.
 
 	@import 'layout/header';
@@ -106,7 +108,7 @@ $palette: (
 	@import 'layout/footer';
 	@import 'layout/sidebar';
 	@import 'layout/intro';
-	
+
 // Stackbit Banner
 
 	@import 'imports/banner';

@@ -61,3 +61,12 @@
 	@return url("data:image/svg+xml;charset=utf8,#{$svg}");
 
 }
+
+@mixin large-heading() {
+
+	font-family: _font(family-heading);
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: _font(kerning-heading);
+
+}
