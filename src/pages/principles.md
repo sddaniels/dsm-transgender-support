@@ -8,7 +8,7 @@ home_spotlights:
     guiding principles.
   home_img:
     data_position: top center
-    path: /images/screen-shot-2019-07-13-at-7.07.04-pm-copy.jpg
+    path: /images/principles.png
     url: '#'
   weight: 1
 template: page
