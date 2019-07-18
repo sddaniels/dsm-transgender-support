@@ -11,6 +11,9 @@ home_spotlights:
     path: /images/principles.png
     url: '#'
   weight: 1
+menus:
+  main:
+    title: Guiding Principles
 template: page
 ---
 We support each other by observing the following principles:
